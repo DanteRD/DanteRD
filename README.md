@@ -25,5 +25,5 @@ Sou um estudante dedicado em análise de dados com foco em resolver problemas re
 ---
 
 ## 📊 Estatísticas (GitHub)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegookaique&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTavares&show_icons=true&theme=dark)
 
