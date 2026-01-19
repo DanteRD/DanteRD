@@ -25,4 +25,4 @@ Sou um estudante dedicado em análise de dados com foco em resolver problemas re
 ---
 
 ## 📊 Estatísticas (GitHub)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel_Tavares_&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel_Tavares&show_icons=true&theme=dark)
