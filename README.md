@@ -1,3 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Tavares;I'm+23+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 👋 Olá, eu sou o Daniel Tavares!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+🎓 Estudante | 📊 Analista de Dados | 💻 Apaixonado por tecnologia
+
+---
+
+## 🚀 Sobre mim
+Sou um estudante dedicado em análise de dados com foco em resolver problemas reais usando dados e machine learning.
+
+---
+
+## 💡 Tecnologias e ferramentas
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📈 Machine Learning
+- 🧠 SQL
+- 📌 Git & GitHub
+
+---
+
+## 📫 Como me encontrar
+📧 E-mail: Danieltavaresrodrigues19@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/seulinkedin
+
+---
+
+## 📊 Estatísticas (GitHub)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegookaique&show_icons=true&theme=dark)
+
