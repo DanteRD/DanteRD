@@ -19,7 +19,7 @@ Sou um estudante dedicado em análise de dados com foco em resolver problemas re
 ---
 
 ## 📫 Como me encontrar
-📧 seuemail@exemplo.com  
+📧 Danieltavaresrodrigues19@gmail.com 
 🔗 LinkedIn: https://linkedin.com/in/seulinkedin  
 
 ---
