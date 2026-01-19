@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Daniel Tavares!
 
-🎓 Estudante | 📊 Analista de Dados | 💻 Apaixonado por tecnologia
+🎓 Estudante | 📊 Analista de Dados | 🧠 Cientista de Dados | 💻 Apaixonado por tecnologia
 
 ---
 
